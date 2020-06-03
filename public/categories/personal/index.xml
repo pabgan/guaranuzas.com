@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on Guaranuzas</title>
+    <link>/categories/personal/</link>
+    <description>Recent content in personal on Guaranuzas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Presentación</title>
+      <link>/blog/creating-a-new-theme/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/creating-a-new-theme/</guid>
+      <description>El objetivo: disfrutar cuanto pueda de esta vida sin renunciar a la siguiente.
+La justificación:
+ &amp;ldquo;Yo he venido para que tengan vida y la tengan en abundancia.&amp;rdquo; Juan 10, 10.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
